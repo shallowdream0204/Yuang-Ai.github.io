@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.E in Electronic Information Engineering, Beijing Institute of Technology, 2019-2023
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E in Electronic Information Engineering, Beijing Institute of Technology
+* M.E in Pattern Recognition and Intelligent Systems, Institute of Automation, Chinese Academy of Sciences
+<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 <!-- Work experience
 ======
